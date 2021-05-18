@@ -1,0 +1,57 @@
+#cocos2d-x and VS2019 files
+EpicGame2/cocos2d
+EpicGame2/proj.android
+EpicGame2/proj.ios_mac
+EpicGame2/proj.linux
+EpicGame2/proj.win32/bin
+EpicGame2/proj.win32/Debug
+EpicGame2/proj.win32/engine
+EpicGame2/proj.win32/EpicGame2.dir
+EpicGame2/proj.win32/lib
+EpicGame2/proj.win32/Win32
+
+*vcxproj
+
+# Code::Blocks files
+*.depend
+*.cbp
+*.layout
+
+#Catalogues
+rc_server/bin
+rc_server/obj
+rc_client/bin
+rc_client/obj
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
